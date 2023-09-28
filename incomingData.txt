@@ -1,0 +1,6 @@
+jack:2000
+john:2900
+greta:3100
+john:1300
+nick:1200
+greta:500
